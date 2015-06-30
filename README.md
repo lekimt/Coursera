@@ -1,2 +1,2 @@
-# Coursera
-Coursework from Coursera online classes
+# Coursera-Interactive-Prog-in-Python
+Coursework from Interactive Programming in Python
